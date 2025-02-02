@@ -8,7 +8,7 @@ Live 👉 : https://smart-path-six.vercel.app/
  Features
 - User Authentication: Allows users to sign up, log in, and manage their profiles.
 - Course Management: Teachers can create, update, and manage courses, while students can enroll and view the course content.
-- Quizzes & Assignments: Students can take quizzes and submit assignments, with teachers grading them.
+- Quizzes : Teachers can create,update,delete and manage while Students can take quizzes 
 
  Technologies Used
 - Frontend: React, Redux, Tailwind CSS
