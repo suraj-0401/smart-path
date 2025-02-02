@@ -1,6 +1,7 @@
 # Education Platform
 
  Description
+ 
 This is an Education Platform built using the MERN stack (MongoDB, Express, React, Node.js). The platform allows students and teachers to interact, access courses and engage with various learning resources.
 
 Live 👉 : https://smart-path-six.vercel.app/
