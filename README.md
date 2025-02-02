@@ -28,23 +28,23 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/en/)
 - [MongoDB](https://www.mongodb.com/try/download/community)
 
-Installation:
+#Installation:
 
      Navigate to the project directory:
  
      cd Education Platfrom
 
-Install dependencies:
+#Install dependencies:
 
     go to the folder where package.json file placed and write below command npm install
 
-Set up environment variables:
+#Set up environment variables:
 
-    Create a .env file in the backend directory and add your configuration variables (e.g., database connection string, JWT secret). PORT = Enter your port number
+    Create a .env file in the backend directory and add your configuration variables (e.g., database connection string, JWT secret).
 
-    DB_URL = Enter your cluster
+       DB_URL = Enter your cluster
 
-     Port=5000
+       PORT = Enter your port number
 
      JWT_SECRET =Enter your JWT secret
 
