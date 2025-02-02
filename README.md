@@ -30,9 +30,9 @@ Make sure you have the following installed:
 
 Installation:
 
-    Navigate to the project directory:
+     Navigate to the project directory:
  
-   cd Education Platfrom
+     cd Education Platfrom
 
 Install dependencies:
 
