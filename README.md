@@ -31,12 +31,15 @@ Make sure you have the following installed:
 Installation:
 
 Navigate to the project directory:
-cd Education Platfrom
+ 
+ cd Education Platfrom
 
 Install dependencies:
+
 go to the folder where package.json file placed and write below command npm install
 
 Set up environment variables:
+
 Create a .env file in the backend directory and add your configuration variables (e.g., database connection string, JWT secret). PORT = Enter your port number
 
 DB_URL = Enter your cluster
@@ -46,7 +49,9 @@ Port=5000
 JWT_SECRET =Enter your JWT secret
 
 For Frontend 
+ 
  cd frontend 
  
 For Backend 
+ 
  cd backend
