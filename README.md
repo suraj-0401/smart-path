@@ -48,10 +48,10 @@ Port=5000
 
 JWT_SECRET =Enter your JWT secret
 
-For Frontend 
+#For Frontend 
  
- cd frontend 
+ cd frontend    run: npm start 
  
-For Backend 
+#For Backend 
  
- cd backend
+ cd backend  run: nodemon server.js
