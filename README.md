@@ -18,6 +18,9 @@ Live 👉 : https://smart-path-six.vercel.app/
 - Deployment: Render (for backend), Vercel (for frontend)
 
 
+![Architecture Diagram](https://github.com/user-attachments/assets/5962188a-f8dc-4427-9950-98b74dc5144f)
+
+
 # Prerequisites
 Make sure you have the following installed:
 - [Node.js](https://nodejs.org/en/)
